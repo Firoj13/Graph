@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/month"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="januvary"
+        android:textSize="24sp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="10dp"/>
+
+    <ProgressBar
+        android:id="@+id/progress_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="400"
+        android:progress="100"
+        android:padding="20dp"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:background="#F9DDA4"/>
+
+
+</LinearLayout>

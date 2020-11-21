@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "634877998183",
+    "firebase_url": "https://orahi-3361b.firebaseio.com",
+    "project_id": "orahi-3361b",
+    "storage_bucket": "orahi-3361b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634877998183:android:91d3aa970e73805d61d0c2",
+        "android_client_info": {
+          "package_name": "com.example.orahi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634877998183-4hev6uuqtmaflvgnupum4cnmmpliijsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orahi",
+            "certificate_hash": "3e8873165909a3e6e9f58dffb0028f9a49ffb1b0"
+          }
+        },
+        {
+          "client_id": "634877998183-qhcsog34qmo12brbssjomjedrgb83suh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3x-T_iMKhieHsLWOymQ9BaOdpnaOHwyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634877998183-qhcsog34qmo12brbssjomjedrgb83suh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
